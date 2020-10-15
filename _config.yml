@@ -124,4 +124,4 @@ theme: hexo-theme-skapp
 deploy:
   type: git
   repo: git@github.com:xtra-football/xtra-football.github.io.git
-  branch: gh-pages
+  branch: master

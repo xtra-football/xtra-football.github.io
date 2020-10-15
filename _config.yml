@@ -32,8 +32,8 @@ menu:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://ayoe.me/xtra-blog
-root: /xtra-blog/
+url: https://xtra-football.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -123,5 +123,5 @@ theme: hexo-theme-skapp
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:miles-pudge-halter/xtra-blog.git
+  repo: git@github.com:xtra-football/xtra-football.github.io.git
   branch: gh-pages

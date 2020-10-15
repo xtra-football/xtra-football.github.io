@@ -3,11 +3,11 @@
   <title>Xtra Football</title>
   
   <subtitle>Xtra Football Blog</subtitle>
-  <link href="https://xtrafootball.com/atom.xml" rel="self"/>
+  <link href="https://ayoe.me/xtra-blog/atom.xml" rel="self"/>
   
-  <link href="https://xtrafootball.com/"/>
+  <link href="https://ayoe.me/xtra-blog/"/>
   <updated>2020-10-15T18:09:09.890Z</updated>
-  <id>https://xtrafootball.com/</id>
+  <id>https://ayoe.me/xtra-blog/</id>
   
   <author>
     <name>Xtra Football</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Feyenoord နဲ့ Ajax ကစားတဲ့ U14 ပွဲတစ်ပွဲအပြီး အိမ်အပြန်......</title>
-    <link href="https://xtrafootball.com/2020/10/15/RVP/"/>
-    <id>https://xtrafootball.com/2020/10/15/RVP/</id>
+    <link href="https://ayoe.me/xtra-blog/2020/10/15/RVP/"/>
+    <id>https://ayoe.me/xtra-blog/2020/10/15/RVP/</id>
     <published>2020-10-15T17:18:36.000Z</published>
     <updated>2020-10-15T18:09:09.890Z</updated>
     
@@ -31,13 +31,13 @@
     
     
     
-    <category term="xtra" scheme="https://xtrafootball.com/tags/xtra/"/>
+    <category term="xtra" scheme="https://ayoe.me/xtra-blog/tags/xtra/"/>
     
-    <category term="football" scheme="https://xtrafootball.com/tags/football/"/>
+    <category term="football" scheme="https://ayoe.me/xtra-blog/tags/football/"/>
     
-    <category term="RVP" scheme="https://xtrafootball.com/tags/RVP/"/>
+    <category term="RVP" scheme="https://ayoe.me/xtra-blog/tags/RVP/"/>
     
-    <category term="soccer" scheme="https://xtrafootball.com/tags/soccer/"/>
+    <category term="soccer" scheme="https://ayoe.me/xtra-blog/tags/soccer/"/>
     
   </entry>
   

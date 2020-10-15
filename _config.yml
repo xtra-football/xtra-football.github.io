@@ -4,16 +4,16 @@
 
 # Site
 title: Xtra Football
-subtitle: Xtra Football Blog
-subtitle_desc: Xtra Football Subtitle Description
+subtitle: ' '
+subtitle_desc: ' '
 introduction: Welcome to Xtra Football Intro
 description: Xtra Football Description
 # seo keyword
 keywords: xtra, football, soccer
-logo: img/logo.png
+logo: https://xtra-football.github.io/img/logo.png
 
-default_cover: img/cover.jpg
-header_cover: img/cover.jpg
+default_cover: https://xtra-football.github.io/img/logo.png
+header_cover: https://xtra-football.github.io/img/logo.png
 avatar: img/logo.png
 
 author: Xtra Football

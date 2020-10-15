@@ -122,4 +122,6 @@ theme: hexo-theme-skapp
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/miles-pudge-halter/xtra-blog
+  branch: gh-pages

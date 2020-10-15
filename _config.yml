@@ -32,8 +32,8 @@ menu:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://xtrafootball.com
-root: /
+url: https://ayoe.me/xtra-blog
+root: /xtra-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
